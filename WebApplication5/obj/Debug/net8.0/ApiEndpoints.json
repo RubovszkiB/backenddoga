@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "WebApplication5.Controllers.ActorsController",
+    "Method": "GetCount",
+    "RelativePath": "api/Actors/feladat12",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication5.Controllers.ActorsController",
+    "Method": "GetActorByName",
+    "RelativePath": "api/Actors/feladat9/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication5.Controllers.FilmTypesController",
+    "Method": "GetFilmTypes",
+    "RelativePath": "api/FilmTypes/feladat11",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication5.Controllers.MoviesController",
+    "Method": "GetMovies",
+    "RelativePath": "api/Movies/feladat10",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
